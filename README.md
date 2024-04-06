@@ -1,9 +1,9 @@
 # KDEnuker
+<img src="https://github.com/JackPala/KDEnuker/assets/2214871/01c6ca97-d970-45b6-8c78-3113fc42c0dc" width="200" height="200">
+
 Deletes all KDE related files in the event that your KDE Plasma install gets broken
 
 **NOTE: Always make a full backup of your system before attempting use this tool**
-
-<img src="https://github.com/JackPala/KDEnuker/assets/2214871/01c6ca97-d970-45b6-8c78-3113fc42c0dc" width="100" height="100">
 
 The purpose of this tool is to delete all user specific KDE settings in the event that your KDE configuration is broken and you want to revert to stock.
 
